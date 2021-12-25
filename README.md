@@ -9,7 +9,7 @@ Tik tok Video download telegram bot
     <a href="https://t.me/TikTok_Eliza_DTg_Bot" target="blank"><img src="https://img.shields.io/badge/@ElizaTDB-30302f?style=flat&logo=telegram" /></a>
 
 
-<p align="center"><a href="https://t.me/TikTok_Eliza_DTg_Bot"><img src="https://github.com/PereraSehath/TikTokDownloaderBot/blob/main/unnamed.png"></a></p>
+<p align="center"><a href="https://t.me/TikTok_Eliza_DTg_Bot"> <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg"></p>
 <p align="center">
 
 ## Heroku Deployment
